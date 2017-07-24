@@ -3,3 +3,6 @@ bin
 build
 dist
 untp.egg-info
+tests/v1
+tests/v2
+tests/v3
